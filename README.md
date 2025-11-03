@@ -1,23 +1,18 @@
-# ※ General info
+## ※ General info
 
-- **Name:** Tran Gia Huy.
+- Hi my name is Tran Gia Huy. You can call me Albrecht or Hatakaze as well. The former is my current alias, the latter was used only in games but i no longer use that name in newer affairs.
+
+- I'm currently a student at **Posts and Telecommunications Institute of Technology**.
   
-- **Username:** Albrecht, Hatakaze. The former is my current alias, the latter was used only in games but i no longer use that name in newer affairs.
+- I'm currently learning **Competitive Programming and improving my skills in C++, Algorithms, and Data Structures.**
 
-
-- 🎓 I'm currently a student at **Posts and Telecommunications Institute of Technology**.
-  
-- 🌱 I'm currently learning **Competitive Programming and improving my skills in C++, Algorithms, and Data Structures.**
-
-- 📫 How to reach me **albrecht.maimai@gmail.com**
-
-- ⚡ Fun fact **I debug more than I sleep.**
-
-
+## ※ hobbies
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=albrecht-thcerbla&show_icons=true&theme=dark)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=albrecht-thcerbla&theme=dark)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=albrecht-thcerbla&theme=tokyo-night)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
