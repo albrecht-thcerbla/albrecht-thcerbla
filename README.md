@@ -17,6 +17,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=albrecht-thcerbla&show_icons=true&theme=dark)
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=albrecht-thcerbla&theme=dark)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
