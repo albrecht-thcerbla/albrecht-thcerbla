@@ -1,6 +1,4 @@
-# Hi 👋, I'm albrecht-thcerbla
-
-## A passionate developer from around the world...
+# About me
 - 🎓 I'm currently a student at **Posts and Telecommunications Institute of Technology**.
   
 - 🌱 I'm currently learning **Competitive Programming and improving my skills in C++, Algorithms, and Data Structures.**
