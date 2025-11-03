@@ -11,8 +11,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albrecht-thcerbla&layout=compact&theme=tokyonight)
 
 ### 🎧 Now Playing
-[![A Town with an Ocean View - Joe Hisaishi](https://i.scdn.co/image/ab67616d0000b2732f25f20b02d4fa7c1a1ce1c8)](https://open.spotify.com/track/3PMTJcuYnv3FuYkK6u3wD4)
-> *A Town with an Ocean View* – Joe Hisaishi
+[![A Town with an Ocean View - Joe Hisaishi](https://img.youtube.com/vi/92tuvWm8GrU/hqdefault.jpg)](https://www.youtube.com/watch?v=92tuvWm8GrU)
+> *A Town with an Ocean View* – Joe Hisaishi 🎼
+
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=albrecht-thcerbla&show_icons=true&theme=dark)
