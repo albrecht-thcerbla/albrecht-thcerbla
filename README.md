@@ -13,12 +13,6 @@
 - I also enjoy playing FPS games such as VALORANT and CS2, where teamwork and quick reflexes make every match exciting.
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=albrecht-thcerbla&show_icons=true&theme=dark)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=albrecht-thcerbla&theme=dark)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=albrecht-thcerbla&theme=tokyo-night)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/albrecht-thcerbla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="albrecht-thcerbla" height="30" width="40" /></a>
