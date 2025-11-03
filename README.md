@@ -8,15 +8,11 @@
 
 ## ※ hobbies
 
+- I’m really into rhythm games like osu!, maimai, and CHUNITHM — I love the mix of music, precision, and challenge they bring.
+
+- I also enjoy playing FPS games such as VALORANT and CS2, where teamwork and quick reflexes make every match exciting.
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albrecht-thcerbla&layout=compact&theme=tokyonight)
-
-### 🎧 Now Playing on Spotify
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31kxetgjo7mury2ujrnturyb7icq&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=31kxetgjo7mury2ujrnturyb7icq&redirect=true)
-> *Currently vibing with the calm of "A Town with an Ocean View" 🎼*
-
-
-
-
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=albrecht-thcerbla&show_icons=true&theme=dark)
 
