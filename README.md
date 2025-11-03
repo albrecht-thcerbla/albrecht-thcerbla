@@ -10,9 +10,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albrecht-thcerbla&layout=compact&theme=tokyonight)
 
-<div align="center">
-  <img src="https://img.shields.io/badge/🎧%20Now%20Playing-A%20Town%20with%20an%20Ocean%20View%20–%20Joe%20Hisaishi-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=121212&color=1DB954" />
-</div>
+### 🎧 Now Playing on Spotify
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31kxetgjo7mury2ujrnturyb7icq&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=31kxetgjo7mury2ujrnturyb7icq&redirect=true)
+> *Currently vibing with the calm of "A Town with an Ocean View" 🎼*
+
 
 
 
