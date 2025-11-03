@@ -1,4 +1,10 @@
-# About me
+# ※ General info
+
+- **Name:** Tran Gia Huy.
+  
+- **Username:** Albrecht, Hatakaze. The former is my current alias, the latter was used only in games but i no longer use that name in newer affairs.
+
+
 - 🎓 I'm currently a student at **Posts and Telecommunications Institute of Technology**.
   
 - 🌱 I'm currently learning **Competitive Programming and improving my skills in C++, Algorithms, and Data Structures.**
