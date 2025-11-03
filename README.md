@@ -12,6 +12,7 @@
 
 - I also enjoy playing FPS games such as VALORANT and CS2, where teamwork and quick reflexes make every match exciting.
 
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albrecht-thcerbla&layout=compact&theme=tokyonight)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=albrecht-thcerbla&show_icons=true&theme=dark)
