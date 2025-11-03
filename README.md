@@ -10,9 +10,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albrecht-thcerbla&layout=compact&theme=tokyonight)
 
-### 🎧 Now Playing
-[![A Town with an Ocean View - Joe Hisaishi](https://img.youtube.com/vi/92tuvWm8GrU/hqdefault.jpg)](https://www.youtube.com/watch?v=92tuvWm8GrU)
-> *A Town with an Ocean View* – Joe Hisaishi 🎼
+<div align="center">
+  <img src="https://img.shields.io/badge/🎧%20Now%20Playing-A%20Town%20with%20an%20Ocean%20View%20–%20Joe%20Hisaishi-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=121212&color=1DB954" />
+</div>
+
 
 
 
