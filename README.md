@@ -18,9 +18,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/albrecht-thcerbla/snk/output/github-contribution-grid-snake.svg" />
 </picture>
 
-
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/albrecht-thcerbla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="albrecht-thcerbla" height="30" width="40" /></a>
