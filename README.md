@@ -17,9 +17,10 @@
 - Outside of gaming, I like reading about technology trends, AI ethics, and Japanese culture.
 
 
-![Anime Lover](https://img.shields.io/badge/Anime-%F0%9F%8E%A5-pink)
-![AI Enthusiast](https://img.shields.io/badge/Artificial%20Intelligence-%E2%9C%A8-blue)
-![Made in Vietnam](https://img.shields.io/badge/Made%20in-Vietnam-red)
+<p align="center">
+  <img src="https://i.pinimg.com/originals/1b/ae/2a/1bae2a7920c067d1eb2e0282b8571c2a.gif" width="600">
+</p>
+
 
   
 <picture>
