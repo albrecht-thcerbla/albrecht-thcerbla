@@ -6,6 +6,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=albrecht-thcerbla&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=albrecht-thcerbla&theme=tokyonight&hide_border=true" />
+</p>
 
 ## ※ General info
 
