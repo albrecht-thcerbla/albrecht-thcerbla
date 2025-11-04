@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/albrecht-thcerbla/albrecht-thcerbla/main/gifcoding.gif" width="400"/>
+  <img src="https://raw.githubusercontent.com/albrecht-thcerbla/albrecht-thcerbla/main/gifcoding.gif" width="600"/>
 </p>
 
 
@@ -17,6 +17,10 @@
 - I’m passionate about Computer Science, and I’m currently focusing on Competitive Programming, improving my skills in C++, Algorithms, and Data Structures.
 
 - I’m also interested in exploring Machine Learning, Deep Learning, and Computer Vision — fields that fuel my curiosity about how machines can learn and think like humans. 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/albrecht-thcerbla/albrecht-thcerbla/main/catwork.gif" width="400"/>
+</p>
 
 ## ※ hobbies
 
