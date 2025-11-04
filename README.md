@@ -19,9 +19,8 @@
 
 ![Albrecht's GitHub stats](https://github-readme-stats.vercel.app/api?username=albrecht-thcerbla&show_icons=true&theme=tokyonight)
 
-<p align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7768E&lines=Hi+there!+I'm+Albrecht+%F0%9F%91%8B;AI+student+from+Vietnam;Rhythm+game+and+FPS+player)](https://git.io/typing-svg)
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7768E&lines=Hi+there!+I'm+Albrecht+%F0%9F%91%8B;AI+student+from+Vietnam;Rhythm+game+and+FPS+player)](https://git.io/typing-svg)
+
 
 
   
