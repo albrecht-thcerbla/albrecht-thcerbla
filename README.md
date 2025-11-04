@@ -2,13 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=9ECE6A&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!" alt="Typing 1"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=albrecht-thcerbla&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=albrecht-thcerbla&theme=tokyonight&hide_border=true" />
-</p>
 
 ## ※ General info
 
@@ -37,6 +30,10 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/albrecht-thcerbla/snk/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/albrecht-thcerbla/snk/output/github-contribution-grid-snake.svg" />
 </picture>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=albrecht-thcerbla&theme=tokyo-night&hide_border=true&area=true" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
