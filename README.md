@@ -17,7 +17,8 @@
 - Outside of gaming, I like reading about technology trends, AI ethics, and Japanese culture.
 
 
-![header](https://i.imgur.com/vC8gXkK.gif)
+![Albrecht's GitHub stats](https://github-readme-stats.vercel.app/api?username=albrecht-thcerbla&show_icons=true&theme=tokyonight)
+
 
 
 
