@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F7768E&center=true&vCenter=true&width=600&lines=cout+%3C%3C+%22Hello+World!%22%3B" alt="Typing 1"/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=9ECE6A&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!" alt="Typing 2"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=9ECE6A&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!" alt="Typing 1"/>
 </p>
 
 ## ※ General info
