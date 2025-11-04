@@ -3,7 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/albrecht-thcerbla/albrecht-thcerbla/main/catwork.gif" width="400"/>
   <img src="https://raw.githubusercontent.com/albrecht-thcerbla/albrecht-thcerbla/main/gifcoding.gif" width="400"/>
 </p>
 
