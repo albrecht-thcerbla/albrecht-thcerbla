@@ -2,6 +2,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=9ECE6A&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!" alt="Typing 1"/>
 </p>
 
+<p align="center">
+  <img src="https://i.pinimg.com/originals/1b/ae/2a/1bae2a7920c067d1eb2e0282b8571c2a.gif" width="600" alt="anime banner"/>
+</p>
+
+
 ## ※ General info
 
 - Hi my name is Tran Gia Huy [age=18], and I'm from Vietnam. You can call me Albrecht or Hatakaze as well. The former is my current alias, the latter was used only in games but i no longer use that name in newer affairs.
