@@ -14,7 +14,7 @@
 
 - I'm currently a student at **Posts and Telecommunications Institute of Technology**, majoring in **Artificial Intelligence** within the Information Technology field.
   
-- I’m passionate about Computer Science, and I’m currently focusing on Competitive Programming, improving my skills in C++, Algorithms, and Data Structures.
+- I’m passionate about Artificial Intelligence, and I’m currently focusing on Competitive Programming, improving my skills in C++, Algorithms, and Data Structures.
 
 - I’m also interested in exploring Machine Learning, Deep Learning, and Computer Vision — fields that fuel my curiosity about how machines can learn and think like humans. 
 
