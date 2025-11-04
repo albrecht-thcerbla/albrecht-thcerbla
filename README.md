@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=28&duration=3000&color=F7768E&center=true&width=600&lines=cout+%3C%3C+%22Hello+World!%22%3B)](https://git.io/typing-svg)
+
 ## ※ General info
 
 - Hi my name is Tran Gia Huy [age=18], and I'm from Vietnam. You can call me Albrecht or Hatakaze as well. The former is my current alias, the latter was used only in games but i no longer use that name in newer affairs.
@@ -18,8 +20,6 @@
 
 
 ![Albrecht's GitHub stats](https://github-readme-stats.vercel.app/api?username=albrecht-thcerbla&show_icons=true&theme=tokyonight)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=28&duration=3000&color=F7768E&center=true&width=600&lines=cout+%3C%3C+%22Hello+World!%22%3B)](https://git.io/typing-svg)
 
   
 <picture>
