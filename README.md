@@ -19,9 +19,7 @@
 
 ![Albrecht's GitHub stats](https://github-readme-stats.vercel.app/api?username=albrecht-thcerbla&show_icons=true&theme=tokyonight)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7768E&lines=cout+<<+"Hello World"+;+%F0%9F%91%8B)](https://git.io/typing-svg)
-
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=28&duration=3000&color=F7768E&center=true&width=600&lines=cout+%3C%3C+%22Hello+World!%22%3B)](https://git.io/typing-svg)
 
   
 <picture>
