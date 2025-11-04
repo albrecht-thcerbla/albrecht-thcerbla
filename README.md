@@ -30,16 +30,14 @@
 
 - Outside of gaming, I like reading about technology trends, AI ethics, and Japanese culture.
 
-<br><br>
+<br>
 
 <p align="center">
   
   <img src="https://github-readme-stats.vercel.app/api?username=albrecht-thcerbla&show_icons=true&theme=tokyonight" height="165"/>
 </p>
 
-
-  
-
+<br>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/albrecht-thcerbla/snk/output/github-contribution-grid-snake-dark.svg" />
