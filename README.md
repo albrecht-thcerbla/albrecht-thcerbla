@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/1b/ae/2a/1bae2a7920c067d1eb2e0282b8571c2a.gif" width="600" alt="anime banner"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=albrecht-thcerbla&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 
