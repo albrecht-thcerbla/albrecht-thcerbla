@@ -12,13 +12,20 @@
 
 - I also enjoy playing FPS games such as VALORANT and CS2, where teamwork and quick reflexes make every match exciting.
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/albrecht-thcerbla/snk/output/dist/github-snake-dark.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/albrecht-thcerbla/snk/output/dist/github-snake.svg" />
-  </picture>
-</div>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 
 <h3 align="left">Connect with me:</h3>
