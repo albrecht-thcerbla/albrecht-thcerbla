@@ -3,8 +3,10 @@
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/1b/ae/2a/1bae2a7920c067d1eb2e0282b8571c2a.gif" width="800" alt="anime banner"/>
+  <img src="https://raw.githubusercontent.com/albrecht-thcerbla/main/catwork.gif" width="400"/>
+  <img src="https://raw.githubusercontent.com/albrecht-thcerbla/main/gifcoding.gif" width="400"/>
 </p>
+
 
 ## ※ General info
 
@@ -33,10 +35,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/albrecht-thcerbla/snk/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/albrecht-thcerbla/snk/output/github-contribution-grid-snake.svg" />
 </picture>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=albrecht-thcerbla&theme=tokyo-night&hide_border=true&area=true" />
-</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
