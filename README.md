@@ -17,9 +17,8 @@
 - Outside of gaming, I like reading about technology trends, AI ethics, and Japanese culture.
 
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/1b/ae/2a/1bae2a7920c067d1eb2e0282b8571c2a.gif" width="600">
-</p>
+![header](https://i.imgur.com/vC8gXkK.gif)
+
 
 
   
