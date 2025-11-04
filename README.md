@@ -1,10 +1,12 @@
 ## ※ General info
 
-- Hi my name is Tran Gia Huy. You can call me Albrecht or Hatakaze as well. The former is my current alias, the latter was used only in games but i no longer use that name in newer affairs.
+- Hi my name is Tran Gia Huy [age=18], and I'm from Vietnam. You can call me Albrecht or Hatakaze as well. The former is my current alias, the latter was used only in games but i no longer use that name in newer affairs.
 
-- I'm currently a student at **Posts and Telecommunications Institute of Technology**.
+- I'm currently a student at **Posts and Telecommunications Institute of Technology**, majoring in **Artificial Intelligence** within the Information Technology field.
   
-- I'm currently learning **Competitive Programming and improving my skills in C++, Algorithms, and Data Structures.**
+- I’m passionate about Computer Science, and I’m currently focusing on Competitive Programming, improving my skills in C++, Algorithms, and Data Structures.
+
+- I’m also interested in exploring Machine Learning, Deep Learning, and Computer Vision — fields that fuel my curiosity about how machines can learn and think like humans. 
 
 ## ※ hobbies
 
@@ -12,6 +14,14 @@
 
 - I also enjoy playing FPS games such as VALORANT and CS2, where teamwork and quick reflexes make every match exciting.
 
+- Outside of gaming, I like reading about technology trends, AI ethics, and Japanese culture.
+
+
+![Anime Lover](https://img.shields.io/badge/Anime-%F0%9F%8E%A5-pink)
+![AI Enthusiast](https://img.shields.io/badge/Artificial%20Intelligence-%E2%9C%A8-blue)
+![Made in Vietnam](https://img.shields.io/badge/Made%20in-Vietnam-red)
+
+  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/albrecht-thcerbla/snk/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/albrecht-thcerbla/snk/output/github-contribution-grid-snake.svg" />
