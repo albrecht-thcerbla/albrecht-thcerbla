@@ -30,6 +30,7 @@
 
 - Outside of gaming, I like reading about technology trends, AI ethics, and Japanese culture.
 
+<br><br>
 
 <p align="center">
   
