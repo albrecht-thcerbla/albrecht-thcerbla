@@ -24,7 +24,7 @@
 
 ## ※ hobbies
 
-- I’m really into rhythm games like osu!, maimai, and CHUNITHM — I love the mix of music, precision, and challenge they bring.
+- I’m really into rhythm games like osu!mania [https://osu.ppy.sh/users/Hatakaze], maimai, and CHUNITHM — I love the mix of music, precision, and challenge they bring.
 
 - I also enjoy playing FPS games such as VALORANT and CS2, where teamwork and quick reflexes make every match exciting.
 
