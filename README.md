@@ -10,7 +10,7 @@
 
 ## ※ General info
 
-- Hi my name is Tran Gia Huy [age=18], and I'm from Vietnam. You can call me Albrecht or Hatakaze as well. The former is my current alias, the latter was used only in games but i no longer use that name in newer affairs.
+- Hi my name is Tran Gia Huy [age=18], and I'm from Vietnam.
 
 - I'm currently a student at **Posts and Telecommunications Institute of Technology**, majoring in **Artificial Intelligence** within the Information Technology field.
   
